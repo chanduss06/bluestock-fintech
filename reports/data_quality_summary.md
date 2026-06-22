@@ -26,3 +26,5 @@ Files Loaded:
 ## Validation
 
 - Selected scheme codes successfully matched NAV history endpoint.
+
+All 5 selected AMFI scheme codes were successfully validated against fund_master.csv.
