@@ -1,0 +1,4 @@
+scheme_name,fund_house,category,risk_grade,sharpe_ratio,return_3yr_pct,return_5yr_pct,expense_ratio_pct
+HDFC Top 100 Fund - Regular Plan - Growth,HDFC Mutual Fund,Large Cap,Moderate,1.06,14.84,11.32,1.55
+Mirae Asset Large Cap Fund - Regular - Growth,Mirae Asset MF,Large Cap,Moderate,1.06,14.81,12.68,1.46
+ICICI Pru Bluechip Fund - Direct - Growth,ICICI Prudential MF,Large Cap,Moderate,1.03,14.41,13.02,0.8
